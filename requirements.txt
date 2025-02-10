@@ -1,1 +1,1 @@
-streamlit_gsheets
+streamlit==1.41.1
